@@ -18,6 +18,8 @@ import butterknife.OnClick;
 public class SignupActivity extends AppCompatActivity {
     private static final String TAG = "SignupActivity";
 
+    //영재 test
+
     @BindView(R.id.et_userid)
     EditText mUserid;
     @BindView(R.id.et_username)
