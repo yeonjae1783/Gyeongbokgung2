@@ -10,7 +10,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.nio.channels.InterruptedByTimeoutException;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
